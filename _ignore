@@ -1,0 +1,5 @@
+To use rustc and cargo : source $HOME/.cargo/env
+
+To use solana CLI : PATH="/home/sri/.local/share/solana/install/active_release/bin:$PATH"
+
+To start local RPC : solana-test-validator
